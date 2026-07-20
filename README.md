@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/MahammadAshiq/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/MahammadAshiq/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MahammadAshiq/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/MahammadAshiq/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MahammadAshiq/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/MahammadAshiq/Leetcode/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MahammadAshiq/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/MahammadAshiq/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2733-neither-minimum-nor-maximum](https://github.com/MahammadAshiq/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MahammadAshiq/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |

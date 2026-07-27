@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MahammadAshiq/Leetcode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/MahammadAshiq/Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/MahammadAshiq/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MahammadAshiq/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MahammadAshiq/Leetcode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MahammadAshiq/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/MahammadAshiq/Leetcode/tree/master/0141-linked-list-cycle) |
 ## Divide and Conquer
@@ -214,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MahammadAshiq/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MahammadAshiq/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

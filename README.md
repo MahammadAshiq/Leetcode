@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/MahammadAshiq/Leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MahammadAshiq/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/MahammadAshiq/Leetcode/tree/master/0162-find-peak-element) |
+| [0278-first-bad-version](https://github.com/MahammadAshiq/Leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/MahammadAshiq/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Union-Find
 |  |
@@ -202,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/MahammadAshiq/Leetcode/tree/master/0136-single-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/MahammadAshiq/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

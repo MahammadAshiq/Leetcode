@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/MahammadAshiq/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/MahammadAshiq/Leetcode/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/MahammadAshiq/Leetcode/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/MahammadAshiq/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MahammadAshiq/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MahammadAshiq/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MahammadAshiq/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |

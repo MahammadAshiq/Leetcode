@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/MahammadAshiq/Leetcode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/MahammadAshiq/Leetcode/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/MahammadAshiq/Leetcode/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/MahammadAshiq/Leetcode/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/MahammadAshiq/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MahammadAshiq/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/MahammadAshiq/Leetcode/tree/master/0877-stone-game) |
@@ -245,5 +246,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/MahammadAshiq/Leetcode/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/MahammadAshiq/Leetcode/tree/master/0319-bulb-switcher) |
 | [1025-divisor-game](https://github.com/MahammadAshiq/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->

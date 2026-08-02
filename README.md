@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/MahammadAshiq/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MahammadAshiq/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/MahammadAshiq/Leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/MahammadAshiq/Leetcode/tree/master/1025-divisor-game) |
 | [1492-the-kth-factor-of-n](https://github.com/MahammadAshiq/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MahammadAshiq/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MahammadAshiq/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/MahammadAshiq/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MahammadAshiq/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/MahammadAshiq/Leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/MahammadAshiq/Leetcode/tree/master/1025-divisor-game) |
 ## Stack
 |  |
 | ------- |
@@ -238,8 +240,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/MahammadAshiq/Leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/MahammadAshiq/Leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/MahammadAshiq/Leetcode/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/MahammadAshiq/Leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/MahammadAshiq/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->

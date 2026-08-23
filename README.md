@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/MahammadAshiq/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/MahammadAshiq/Leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/MahammadAshiq/Leetcode/tree/master/0541-reverse-string-ii) |
+| [1927-sum-game](https://github.com/MahammadAshiq/Leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MahammadAshiq/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MahammadAshiq/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/MahammadAshiq/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/MahammadAshiq/Leetcode/tree/master/1025-divisor-game) |
 | [1492-the-kth-factor-of-n](https://github.com/MahammadAshiq/Leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [1927-sum-game](https://github.com/MahammadAshiq/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MahammadAshiq/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/MahammadAshiq/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MahammadAshiq/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/MahammadAshiq/Leetcode/tree/master/0045-jump-game-ii) |
 | [0324-wiggle-sort-ii](https://github.com/MahammadAshiq/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0455-assign-cookies](https://github.com/MahammadAshiq/Leetcode/tree/master/0455-assign-cookies) |
+| [1927-sum-game](https://github.com/MahammadAshiq/Leetcode/tree/master/1927-sum-game) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/MahammadAshiq/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MahammadAshiq/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/MahammadAshiq/Leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/MahammadAshiq/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/MahammadAshiq/Leetcode/tree/master/1025-divisor-game) |
+| [1927-sum-game](https://github.com/MahammadAshiq/Leetcode/tree/master/1927-sum-game) |
 ## Brainteaser
 |  |
 | ------- |

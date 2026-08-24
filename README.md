@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MahammadAshiq/Leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/MahammadAshiq/Leetcode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/MahammadAshiq/Leetcode/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/MahammadAshiq/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/MahammadAshiq/Leetcode/tree/master/0319-bulb-switcher) |

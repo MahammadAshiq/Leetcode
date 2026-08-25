@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/MahammadAshiq/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/MahammadAshiq/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/MahammadAshiq/Leetcode/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/MahammadAshiq/Leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MahammadAshiq/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/MahammadAshiq/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/MahammadAshiq/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/MahammadAshiq/Leetcode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/MahammadAshiq/Leetcode/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MahammadAshiq/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/MahammadAshiq/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/MahammadAshiq/Leetcode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/MahammadAshiq/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/MahammadAshiq/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/MahammadAshiq/Leetcode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/MahammadAshiq/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/MahammadAshiq/Leetcode/tree/master/0319-bulb-switcher) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/MahammadAshiq/Leetcode/tree/master/0204-count-primes) |
 | [1492-the-kth-factor-of-n](https://github.com/MahammadAshiq/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MahammadAshiq/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MahammadAshiq/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -291,4 +295,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/MahammadAshiq/Leetcode/tree/master/0509-fibonacci-number) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MahammadAshiq/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MahammadAshiq/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MahammadAshiq/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

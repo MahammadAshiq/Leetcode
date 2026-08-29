@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/MahammadAshiq/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/MahammadAshiq/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/MahammadAshiq/Leetcode/tree/master/0454-4sum-ii) |
+| [0771-jewels-and-stones](https://github.com/MahammadAshiq/Leetcode/tree/master/0771-jewels-and-stones) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MahammadAshiq/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/MahammadAshiq/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/MahammadAshiq/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/MahammadAshiq/Leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/MahammadAshiq/Leetcode/tree/master/0541-reverse-string-ii) |
+| [0771-jewels-and-stones](https://github.com/MahammadAshiq/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1927-sum-game](https://github.com/MahammadAshiq/Leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MahammadAshiq/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MahammadAshiq/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |

@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/MahammadAshiq/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/MahammadAshiq/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/MahammadAshiq/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/MahammadAshiq/Leetcode/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/MahammadAshiq/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/MahammadAshiq/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/MahammadAshiq/Leetcode/tree/master/0454-4sum-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/MahammadAshiq/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/MahammadAshiq/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/MahammadAshiq/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/MahammadAshiq/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/MahammadAshiq/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MahammadAshiq/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/MahammadAshiq/Leetcode/tree/master/0392-is-subsequence) |

@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/MahammadAshiq/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/MahammadAshiq/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/MahammadAshiq/Leetcode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/MahammadAshiq/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/MahammadAshiq/Leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MahammadAshiq/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/MahammadAshiq/Leetcode/tree/master/0217-contains-duplicate) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MahammadAshiq/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/MahammadAshiq/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/MahammadAshiq/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/MahammadAshiq/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/MahammadAshiq/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MahammadAshiq/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/MahammadAshiq/Leetcode/tree/master/0392-is-subsequence) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/MahammadAshiq/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/MahammadAshiq/Leetcode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/MahammadAshiq/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/MahammadAshiq/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/MahammadAshiq/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/MahammadAshiq/Leetcode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/MahammadAshiq/Leetcode/tree/master/0292-nim-game) |

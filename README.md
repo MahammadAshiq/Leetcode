@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/MahammadAshiq/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/MahammadAshiq/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MahammadAshiq/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/MahammadAshiq/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/MahammadAshiq/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/MahammadAshiq/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/MahammadAshiq/Leetcode/tree/master/0454-4sum-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/MahammadAshiq/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/MahammadAshiq/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MahammadAshiq/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/MahammadAshiq/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/MahammadAshiq/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MahammadAshiq/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/MahammadAshiq/Leetcode/tree/master/0392-is-subsequence) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/MahammadAshiq/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/MahammadAshiq/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/MahammadAshiq/Leetcode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/MahammadAshiq/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/MahammadAshiq/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Union-Find
 |  |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/MahammadAshiq/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/MahammadAshiq/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MahammadAshiq/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/MahammadAshiq/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Interactive
 |  |
 | ------- |
@@ -345,4 +349,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/MahammadAshiq/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/MahammadAshiq/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/MahammadAshiq/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
